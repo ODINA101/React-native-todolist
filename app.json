@@ -1,0 +1,18 @@
+ 
+
+
+{
+  "expo": {
+   "name": "Your App Name",
+   "icon": "./ico_android.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.asdaddas.dsadsad"
+   },
+   "android": {
+     "package": "com.asdaddas.dsadsad"
+   }
+  }
+}
